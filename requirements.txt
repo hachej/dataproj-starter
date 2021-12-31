@@ -1,5 +1,3 @@
 awscli
 python-dotenv>=0.5.1
 jupyter
--e git+git@bitbucket.org:axomdev/axvisionpy.git#egg=axvisionpy
--e git+git@bitbucket.org:axomdev/imageshooting.git#egg=imageshooting
