@@ -8,7 +8,7 @@ KINDLE_PWD = "><ij9C-6(sdf"
 
 class Kindle:
     def __init__(self):
-        self.web = Browser()
+        self.web = Browser(showWindow=False)
         self.login()
         time.sleep(1)
         
